@@ -1,10 +1,10 @@
 
-# README-Generator
+# ReadMe-Generator
 
-![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-slkdjfjlsdjfl
+lkjlgrjoijgraedsfdsf
     
 ## Table of Contents
     
@@ -27,13 +27,13 @@ To install necessary dependencies, run the following command:
 npm i
     
 ## Usage 
-sdsfsdfdsf
+aieruhgirtngiutngit
     
-## LIcense
-This project is licensed under the Apache_2.0 license.
+## License
+This project is licensed under the MIT license.
     
 ## Contributing
-sdfsdfdsfdsf
+iutngiotngitnigtnigu
     
 ## Tests
 To run tests, run the following command:
@@ -41,4 +41,4 @@ To run tests, run the following command:
 npm test
     
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at b835058@gmail.com. You can find more of my work at [PaichienFeng](https://github.com/PaichienFeng).
+If you have any questions about the repo, open an issue or contact me directly at b8350580@gmail.com. You can find more of my work at [PaichienFeng](https://github.com/PaichienFeng).
